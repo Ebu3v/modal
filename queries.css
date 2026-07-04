@@ -1,0 +1,84 @@
+@media (max-width: 90em) {
+}
+
+@media (max-width: 64em) {
+}
+
+@media (max-width: 48em) {
+  .show-modal {
+    font-size: 1.6rem;
+    font-weight: 600;
+  }
+
+  .close-modal {
+    font-size: 4rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1.8rem;
+  }
+
+  p {
+    font-size: 1.4rem;
+  }
+
+  .modal {
+    width: 60%;
+    padding: 5rem;
+  }
+}
+
+@media (max-width: 26.6em) {
+  .show-modal {
+    font-size: 1.2rem;
+    padding: 1.4rem 1rem;
+    border-radius: 3rem;
+    margin: 3rem 1.3rem;
+  }
+
+  .close-modal {
+    font-size: 2rem;
+    right: 1.2rem;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+    margin-bottom: 1.2rem;
+  }
+
+  p {
+    font-size: 1.2rem;
+  }
+
+  .modal {
+    width: 70%;
+    padding: 2.4rem;
+  }
+}
+
+/* Iphone 14 pro max */
+@media (max-width: 27em) {
+  .show-modal {
+    font-size: 1.2rem;
+    padding: 1.4rem 1rem;
+    border-radius: 3rem;
+    margin: 3.8rem 0.6rem;
+  }
+
+  .close-modal {
+    font-size: 2rem;
+    right: 1.2rem;
+  }
+
+  .modal {
+    width: 70%;
+    padding: 2rem;
+  }
+}
+
+@media (max-width: 23.5em) {
+}
+
+@media (max-width: 20em) {
+}
